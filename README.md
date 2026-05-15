@@ -68,25 +68,5 @@ Built a machine learning model to predict shot quality and probability of scorin
 
 **Technologies**: Python, Machine Learning, Data Visualization, Sports Analytics
 
----
 
-## 📊 What I'm Interested In
-
-- 📈 **Business Intelligence & Analytics** – Converting data into strategic advantage
-- 🤖 **Machine Learning** – Building predictive models that solve real-world problems
-- 📉 **Data Visualization** – Making complex data accessible and actionable
-- 🏗️ **Data Engineering** – Designing robust pipelines and architectures
-- ☁️ **Cloud Technologies** – Scaling solutions for enterprise environments
-
----
-
-## 🤝 Let's Connect!
-
-I'd love to collaborate on data projects, discuss analytics challenges, or explore opportunities to work together:
-
-- 💼 **LinkedIn**: [Stefan Bondo](https://linkedin.com/in/stefanbondo) *(update with your actual URL)*
-- 📧 **Email**: [stefan@example.com](mailto:stefan@example.com) *(update with your actual email)*
-- 🌐 **Portfolio**: [stefanbondo.com](https://stefanbondo.com) *(if you have one)*
-
----
 
