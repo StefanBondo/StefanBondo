@@ -123,22 +123,3 @@ I'd love to collaborate on data projects, discuss analytics challenges, or explo
 
 ---
 
-## 🎯 Currently Working On
-
-- 🔄 Expanding my machine learning model portfolio
-- 📚 Deepening expertise in advanced statistical methods
-- 🚀 Building end-to-end data solutions with modern cloud architectures
-- 💬 Sharing insights and tutorials on data analytics
-
----
-
-## ⭐ Fun Facts
-
-- 🎯 Fascinated by how data reveals patterns hidden in plain sight
-- ⚽ Sports analytics nerd – data & football is the perfect combination
-- 📊 Coffee + Data = Peak productivity ☕
-- 🧠 Believe that good data communication is an underrated superpower
-
----
-
-_Always open to collaborations, interesting data challenges, and conversations about turning data into decisions. Let's build something amazing together!_ 🚀
