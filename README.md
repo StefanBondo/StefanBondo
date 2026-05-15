@@ -19,7 +19,7 @@ Data-driven analyst passionate about transforming datasets into actionable insig
 
 **Languages**: Python • R • SQL  
 **Data**: Machine Learning • Data Visualization • ETL & Pipelines • Statistical Analysis  
-**Cloud & Tools**: AWS (EC2) • MariaDB • PostgreSQL • Excel • Git  
+**Cloud & Tools**: AWS (EC2) • MariaDB • PostgreSQL • Excel • Git • Power BI 
 
 ---
 
