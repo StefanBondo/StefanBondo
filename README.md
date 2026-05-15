@@ -70,19 +70,6 @@ Built a machine learning model to predict shot quality and probability of scorin
 
 ---
 
-## 💼 Professional Experience
-
-**Marketing & Digital Initiatives** @ Valyrion (ViaBill)
-- Developed marketing strategies and digital visibility initiatives for merchant partners
-- Analyzed campaign performance and market trends
-- Supported business decision-making with data-driven insights
-
-**Data Analysis & Business Understanding**
-- Strong foundation in market analysis, consumer behavior, and strategic decision-making
-- Experience translating business questions into analytical solutions
-
----
-
 ## 📊 What I'm Interested In
 
 - 📈 **Business Intelligence & Analytics** – Converting data into strategic advantage
@@ -90,26 +77,6 @@ Built a machine learning model to predict shot quality and probability of scorin
 - 📉 **Data Visualization** – Making complex data accessible and actionable
 - 🏗️ **Data Engineering** – Designing robust pipelines and architectures
 - ☁️ **Cloud Technologies** – Scaling solutions for enterprise environments
-
----
-
-## 🧠 My Approach
-
-I work with a **structured, analytical mindset** driven by:
-
-✅ **Deep understanding** of complex datasets and domain challenges  
-✅ **Pattern recognition** to uncover hidden trends and opportunities  
-✅ **Clear communication** of insights in business-friendly language  
-✅ **Quality & rigor** in every step from data collection to presentation  
-✅ **Business impact** as the north star for every analysis  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanBondo&show_icons=true&theme=radical&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBondo&layout=compact&theme=radical)
 
 ---
 
